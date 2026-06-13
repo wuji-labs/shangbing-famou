@@ -1,0 +1,29 @@
+{
+  "name": "shangbing-famou",
+  "version": "1.0.0",
+  "description": "上兵伐谋 — winning without war. Infuses The Art of War's doctrine of subduing the opponent without fighting into AI strategic and game-theoretic reasoning. Teaches collaborative stratagem and total victory (全胜), not aggressive manipulation. Shares NoPUA's ethical anchor 以道驭术.",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/shangbing-famou",
+  "repository": "https://github.com/wuji-labs/shangbing-famou",
+  "license": "MIT",
+  "keywords": [
+    "strategy",
+    "game-theory",
+    "negotiation",
+    "sun-tzu",
+    "art-of-war",
+    "win-win",
+    "decision-making",
+    "agent-skill",
+    "claude-code"
+  ],
+  "skills": [
+    { "name": "shangbing-famou", "path": "SKILL.md", "language": "zh-CN" }
+  ],
+  "commands": [
+    { "name": "shangbing-famou", "path": "commands/shangbing-famou.md" }
+  ],
+  "agents": [
+    { "name": "shangbing-strategist", "path": "agents/shangbing-strategist.md" }
+  ]
+}

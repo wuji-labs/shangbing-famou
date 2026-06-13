@@ -1,0 +1,28 @@
+{
+  "name": "@labs-skills/shangbing-famou",
+  "version": "1.0.0",
+  "description": "上兵伐谋 ShangBing FaMou — the doctrine of winning without war from The Art of War, infused into AI strategic and game-theoretic reasoning; teaches collaborative stratagem and total victory, not aggressive manipulation",
+  "license": "MIT",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/shangbing-famou",
+  "private": true,
+  "type": "module",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "README.zh-CN.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    ".claude-plugin/",
+    "commands/",
+    "agents/",
+    "examples/",
+    "reference/",
+    "platforms/",
+    "benchmark/"
+  ],
+  "scripts": {
+    "build": "echo no build",
+    "clean": "echo clean"
+  }
+}

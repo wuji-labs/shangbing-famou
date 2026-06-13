@@ -1,0 +1,21 @@
+{
+  "name": "shangbing-famou-skills",
+  "description": "上兵伐谋 ShangBing FaMou — winning without war. The Art of War's doctrine of subduing the opponent without fighting, infused into AI strategic and game-theoretic reasoning.",
+  "owner": {
+    "name": "WUJI",
+    "email": "okeah631@gmail.com",
+    "url": "https://github.com/wuji-labs"
+  },
+  "plugins": [
+    {
+      "name": "shangbing-famou",
+      "description": "上兵伐谋 — wins by reshaping the game so conflict dissolves, never by deceiving a person. Collaborative stratagem and total victory (全胜) over aggressive manipulation.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "WUJI",
+        "url": "https://github.com/wuji-labs"
+      }
+    }
+  ]
+}
