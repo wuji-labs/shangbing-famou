@@ -1,6 +1,20 @@
 ---
 name: shangbing-famou
-description: 把《孙子兵法·谋攻》"不战而屈人之兵"的协作博弈框架装进 AI 的策略推理，教以谋胜、以全胜，不教进攻性操纵。当用户要制定多步策略、在资源约束下找最优路径、评估谈判/协作/竞争中各方立场与底牌、做行动前的形势判断（己方/对方/环境的强弱虚实）、设计让各方都接受的方案、找最省力的关键支点、判断何时该动何时该止，或自检某方案是否滑向操纵/欺骗时自动触发。用户会说："帮我盘一下这次谈判/合作的形势""出一个全胜方案""怎么用最小代价达成目标""各方博弈我该怎么走""这个计划风险在哪、关键支点是什么""我这套话术是不是在操纵对方"。反触发：不用于生成欺骗/胁迫/煤气灯/制造虚假紧迫/利用弱点剥削的进攻性话术（红线一律拒绝），也不替代医疗/投资/法律等专业决策。
+description: >-
+  Builds the cooperative game-theory framework of 《孙子兵法·谋攻》Sun Tzu's Art of
+  War — "winning without fighting" (不战而屈人之兵) — into AI's strategic reasoning,
+  teaching victory through foresight and whole-preservation (全胜), never
+  offensive manipulation. Activates when: planning a multi-step strategy,
+  seeking the least-cost optimal path under constraints, assessing each party's
+  position and hidden cards in a negotiation / partnership / competition, making
+  a pre-action situation read (strength/weakness, real/feint), designing a deal
+  all sides can accept, finding the highest-leverage pivot, judging when to move
+  and when to hold, or self-checking whether a plan slides toward manipulation.
+  Users say: "read the situation for this negotiation," "give me a whole-win
+  plan," "achieve the goal at minimum cost," "is my script manipulating them?"
+  Not for: generating deceptive / coercive / gaslighting / weakness-exploiting
+  offensive tactics (red line — always refused); not a substitute for medical /
+  investment / legal decisions.
 version: 1.0.0
 date: 2026-06-02
 license: MIT
