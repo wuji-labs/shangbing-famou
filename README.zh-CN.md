@@ -1,5 +1,7 @@
 # 上兵伐谋 ShangBing FaMou — 不战而屈人之兵
 
+**[🇨🇳 简体中文](README.zh-CN.md)** · **[🇺🇸 English](README.md)** · **[🇯🇵 日本語](README.ja.md)** · **[🇰🇷 한국어](README.ko.md)** · **[🇪🇸 Español](README.es.md)** · **[🇧🇷 Português](README.pt.md)** · **[🇫🇷 Français](README.fr.md)**
+
 > 这是华夏道脉献给世界开源社区的礼物之一。我们不立华夏本位,不主张任何文明优于他者;只是先从最熟悉的道脉开始,把它打磨成一件可用的工具,放到人类共同的开源工具架上。
 
 > **上兵伐谋,其次伐交,其次伐兵,其下攻城。** ——《孙子·谋攻》
