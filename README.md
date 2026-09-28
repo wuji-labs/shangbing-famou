@@ -145,3 +145,7 @@ cp -r shangbing-famou ~/.claude/skills/
 
 *上兵伐谋 ShangBing FaMou — by [WUJI](https://github.com/wuji-labs)*
 *不战而屈人之兵，善之善者也。 — Subdue without fighting; that is the height of skill.*
+
+## 联系 · Contact
+扫码添加无极微信，交流合作 · Scan to add WUJI on WeChat
+<img src="assets/wechat-qr.png" width="200" alt="WUJI WeChat QR">
