@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **🇯🇵 日本語** | **[🇰🇷 한국어](README.ko.md)** | **[🇪🇸 Español](README.es.md)** | **[🇧🇷 Português](README.pt.md)** | **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">QRコードをスキャンして作者のWeChatを追加 · Scan to add the author on WeChat</p>
+
 > 中国の道脈が世界のオープンソース・コミュニティに贈る十の贈り物の一つです(叩兩端・無極樞紐)。
 > 私たちは中華中心主義を掲げず、いかなる文明も他に優ると主張しません。ただ自らが最もよく知る道脈から始め、
 > それを使える道具として磨き上げ、人類共有のオープンソースの道具棚に置くだけです。やがてギリシャ、ナーランダ、

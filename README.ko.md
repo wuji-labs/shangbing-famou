@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **[🇯🇵 日本語](README.ja.md)** | **🇰🇷 한국어** | **[🇪🇸 Español](README.es.md)** | **[🇧🇷 Português](README.pt.md)** | **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">QR 코드를 스캔하여 작성자 WeChat 추가 · Scan to add the author on WeChat</p>
+
 > 중국의 도맥(道脈)이 세계 오픈소스 커뮤니티에 드리는 열 가지 선물 중 하나입니다(叩兩端·無極樞紐).
 > 우리는 중화 중심주의를 내세우지 않으며, 어떤 문명도 다른 문명보다 우월하다고 주장하지 않습니다. 그저 우리가 가장 잘 아는 도맥에서 시작하여,
 > 그것을 쓸 만한 도구로 다듬어 인류 공동의 오픈소스 도구 선반에 올려놓을 뿐입니다. 앞으로 그리스, 날란다,

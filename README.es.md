@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **[🇯🇵 日本語](README.ja.md)** | **[🇰🇷 한국어](README.ko.md)** | **🇪🇸 Español** | **[🇧🇷 Português](README.pt.md)** | **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">Escanear para agregar al autor en WeChat · Scan to add the author on WeChat</p>
+
 > Este es uno de los diez regalos que la corriente de sabiduría china ofrece a la comunidad mundial de código abierto (叩兩端·無極樞紐).
 > No alzamos un centrismo chino ni sostenemos que civilización alguna sea superior a otra; sencillamente partimos de la corriente que mejor conocemos,
 > la pulimos hasta volverla una herramienta útil y la colocamos en el estante común de herramientas de código abierto de la humanidad. Con el tiempo llegarán también,

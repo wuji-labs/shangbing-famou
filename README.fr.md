@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **[🇯🇵 日本語](README.ja.md)** | **[🇰🇷 한국어](README.ko.md)** | **[🇪🇸 Español](README.es.md)** | **[🇧🇷 Português](README.pt.md)** | **🇫🇷 Français**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">Scannez pour ajouter l'auteur sur WeChat · Scan to add the author on WeChat</p>
+
 > Ceci est l'un des dix présents que le courant de sagesse chinois offre à la communauté mondiale de l'open source (叩兩端·無極樞紐).
 > Nous ne dressons aucun centrisme chinois et ne prétendons pas qu'une civilisation soit supérieure à une autre ; nous partons simplement du courant que nous connaissons le mieux,
 > nous le façonnons en un outil utilisable, et nous le posons sur l'étagère à outils open source commune à l'humanité. Viendront ensuite,
